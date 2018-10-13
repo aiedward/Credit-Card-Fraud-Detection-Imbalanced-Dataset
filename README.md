@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-Imbalanced-Dataset
+In this repository, I created an application which tackles the imbalanced data problem using a SMOTE(Synthetic Minority Over-Sampling Technique) , we see this approach in Data Generator python notebook, we then use this approach to train and make predictions with some ensemble ML techniques, TensorFlow based Neural Network and then A Deep Auto Encoder which is used as a binary classifier.
